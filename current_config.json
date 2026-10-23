@@ -1,0 +1,6 @@
+{
+    "firewall_enabled": true,
+    "mfa_enabled": true,
+    "admin_access": false,
+    "ssh_root_login": false
+}
