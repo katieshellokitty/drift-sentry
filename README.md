@@ -71,4 +71,4 @@ This project is a proof of concept using simulated security configuration data. 
 
 ---
 
-Developed by Katie & Luca
+Developed by Katie & Luca @LucaBianch
